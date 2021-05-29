@@ -1,6 +1,26 @@
 # HDR_OpenGL
 CG&amp;3D Project
 
+## Utilizzo
+1. Scaricare la seguente repository
+2. Scaricare glm da [Google Drive](https://drive.google.com/drive/folders/1WHGnKOe_OktN5xeseHJauRhnvlLcQpEf?usp=sharing) e trascinare la cartella scaricata in "../OpenGL_HDR/includes"
+3. Scaricare [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/) ed installare l'IDE
+4. Aprire infine in Visual Studio Community la cartella HDR_OpenGL tramite l'opzione "Aprire una cartella locale"
+5. Eseguire (Ctrl+F5)
+
+## Comandi implementati
+Possibilità di muoversi all'interno della scena 3D e di modificare Tone Mapping:
+* **A** spostamento a sinistra
+* **S** indietro
+* **D** destra
+* **W** avanti
+* **Q** decremento del valore di esposizione
+* **E** aumento del valore di esposizione
+* **M** cambio metodo da Reinhard a Exposition ciclico
+* **SPACE** disattivazione/attivazione HDR con rispettivo metodo di tone mapping
+* **Mouse** muove la scena
+* **Scroll** zoom in/out 
+* **Esc** termina l'esecuzione
 
 ## HDR Off
 <p align="center">
