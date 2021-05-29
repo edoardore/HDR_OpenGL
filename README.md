@@ -6,7 +6,7 @@ CG&amp;3D Project
 2. Scaricare glm da [Google Drive](https://drive.google.com/drive/folders/1WHGnKOe_OktN5xeseHJauRhnvlLcQpEf?usp=sharing), unzip e trascinare la cartella 'glm' nella repository precedentemente scaricata in "../OpenGL_HDR-main/includes"
 3. Scaricare [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/) ed installare l'IDE
 4. Aprire infine in Visual Studio Community la cartella 'HDR_OpenGL-main' tramite l'opzione "Aprire una cartella locale"
-5. Eseguire (Ctrl+F5)
+5. Selezionare eseguibile e lanciare (Selezione e poi Ctrl+F5)
 
 ## Comandi implementati
 Possibilità di muoversi all'interno della scena 3D e di modificare Tone Mapping:
