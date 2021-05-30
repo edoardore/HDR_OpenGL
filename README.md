@@ -48,6 +48,11 @@ Possibilità di muoversi all'interno della scena 3D e di modificare Tone Mapping
 * **Scroll** zoom in/out 
 * **Esc** termina l'esecuzione
 
+## Esecuzione Esempio
+* Si mostra di seguito una esecuzione con tone mapping Exposure
+![Esecuzione HDR_OpenGL](https://media.giphy.com/media/yp70JVbU0uIpFor3AU/giphy.gif)
+
+
 ## HDR Off
 <p align="center">
   <img src="https://github.com/edoardore/HDR_OpenGL/blob/main/screenshot/off.png" width="650" title="HDR Off">
