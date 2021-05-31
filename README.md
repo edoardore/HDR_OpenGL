@@ -6,7 +6,7 @@
 ## Utilizzo
 1. Scaricare la seguente repository e unzip di 'HDR_OpenGL-main'
 2. Scaricare glm da [Google Drive](https://drive.google.com/drive/folders/1WHGnKOe_OktN5xeseHJauRhnvlLcQpEf?usp=sharing), unzip e trascinare la cartella 'glm' nella repository precedentemente scaricata in "../OpenGL_HDR-main/includes"
-3. Scaricare [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/) ed installare l'IDE
+3. Scaricare [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/) ed installare l'IDE (È necessario avere già un compilatore C++ come MinGW,..)
 4. Aprire infine in Visual Studio Community la cartella 'HDR_OpenGL-main' tramite l'opzione "Aprire una cartella locale"
 5. Selezionare eseguibile e lanciare (Selezione e poi Ctrl+F5)
 6. L'implementazione è contenuta all'interno di './HDR_OpenGL-main/src/OpenGL/HDR/' assieme ai relativi Shader 
